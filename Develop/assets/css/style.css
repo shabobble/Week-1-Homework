@@ -117,23 +117,13 @@ p {
     color: #ffffff;
 }
 
+/* Sets the max height of all images in <article> to 200px */ 
 article img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Sets bottom margin of "Social Media Marketing" text box to 20px
-   Sets font size of "Social Media Marketing" text box to 36px */ 
-.social-media-marketing h2 {
+/* Sets bottom margins of all text in <h2> tags in <article> to 20 px and font size to 36 px */
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
