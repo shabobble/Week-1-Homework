@@ -178,16 +178,13 @@ aside h3 {
     text-align: center;
 }
 
-/* Sets margins of all images in benefits class to 10px with a max width of 150px
-   Sets all images in benefits class above respective text */
+/* Sets margins of all images in sidebar to 10px with a max width of 150px
+   Sets all images in sidebar above respective text */
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-
 
 /* Sets padding on all sides of footer to 30px
    Disallows floating elements on left and right side
