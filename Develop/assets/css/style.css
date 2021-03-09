@@ -41,6 +41,7 @@ header nav {
 /* Tells list in header bar to not display list items with bullets */
 header nav ul {
     list-style-type: none;
+    
 }
 
 /* Tells links in header bar to display on a line from left to right and sets the left margin of the links */
@@ -88,8 +89,9 @@ p {
     margin-left: 20px;
 }
 
-
-
+/* Sets bottom margins of all boxes in <article> to 20px, with padding on all sides of 50px and a height of 300px
+   Sets font family and font color for all text in <article>
+   Sets background color of all boxes in <article> */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -139,6 +141,7 @@ article h2 {
     background-color: #2589bd;
 }
 
+/* Sets text color and a 32px bottom margin below the text for each section of <aside> */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
