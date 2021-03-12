@@ -17,3 +17,5 @@ The goal of this project was to refactor the code of an existing SEO company's w
 ## Screenshots
 
 ![Top of page](/assets/images/top.jpg)
+
+![Bottom of page](/assets/images/bottom.jpg)
