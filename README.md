@@ -14,6 +14,12 @@ The goal of this project was to refactor the code of an existing SEO company's w
 
 * The page has a concise, descriptive title
 
+## Links
+
+Link to deployed application: 
+https://shabobble.github.io/Week-1-Homework/
+
+
 ## Screenshots
 
 ![Top of page](/assets/images/top.jpg)
