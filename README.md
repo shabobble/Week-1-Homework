@@ -25,3 +25,14 @@ https://shabobble.github.io/Week-1-Homework/
 ![Top of page](/assets/images/top.jpg)
 
 ![Bottom of page](/assets/images/bottom.jpg)
+
+## Installation
+
+No installations required for this project.
+
+## Credits
+
+My full-stack web development course is being offered as a collaboration between Trilogy Education Services and UNH Professional Development and Training.
+
+* Instructor - Benjamin Hutchins [GitHub](https://github.com/benhutchins)
+* TA - Casey Ferguson [LinkedIn](https://www.linkedin.com/in/casey-a-ferguson/)
