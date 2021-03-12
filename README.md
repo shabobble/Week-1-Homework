@@ -17,7 +17,8 @@ The goal of this project was to refactor the code of an existing SEO company's w
 ## Links
 
 Link to deployed application: 
-https://shabobble.github.io/Week-1-Homework/
+[GitHub Repository](https://github.com/shabobble/Week-1-Homework)
+[Deployed Application](https://shabobble.github.io/Week-1-Homework/)
 
 
 ## Screenshots
